@@ -1,0 +1,12 @@
+{
+    "name": "annv/calculator",
+    "description": "Module help calculator",
+    "authors": [
+        {
+            "name": "nguyenvanan9889",
+            "email": "nguyenvanan9889@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
