@@ -4,12 +4,12 @@ namespace Annv\Calculator;
 
 class Calculator
 {
-	public function sum($a, $b)
+	public static function tong($a, $b)
 	{
-		return sum($a, $b);
+		return $a + $b;
 	}
 
-	public function subtract($a, $b)
+	public static function hieu($a, $b)
 	{
 		return $a - $b;
 	}

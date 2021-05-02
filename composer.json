@@ -9,9 +9,5 @@
             "email": "nguyenvanan9889@gmail.com"
         }
     ],
-    "extra": {
-        "branch-alias": {
-            "dev-main": "1.0-dev"
-        }
-    }
+    "require": {}
 }
