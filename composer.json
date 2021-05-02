@@ -1,6 +1,7 @@
 {
     "name": "annv/calculator",
-    "description": "Module help calculator",
+    "type": "library",
+    "description": "Calculator",
     "license": "MIT",
     "authors": [
         {
@@ -8,6 +9,9 @@
             "email": "nguyenvanan9889@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0-dev"
+        }
+    }
 }
