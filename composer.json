@@ -1,6 +1,7 @@
 {
     "name": "annv/calculator",
     "description": "Module help calculator",
+    "license": "MIT",
     "authors": [
         {
             "name": "nguyenvanan9889",
