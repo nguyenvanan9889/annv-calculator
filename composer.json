@@ -1,18 +1,18 @@
 {
     "name": "annv/calculator",
-    "type": "library",
     "description": "Calculator",
-    "license": "MIT",
+    "type": "php",
     "authors": [
         {
             "name": "nguyenvanan9889",
             "email": "nguyenvanan9889@gmail.com"
         }
     ],
-    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Annv\\Calculator\\": "src"
+            "Annv\\Calculator\\": "src/"
         }
     }
 }
